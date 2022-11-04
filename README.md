@@ -40,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Tyagi&show_icons=true&locale=en" alt="asheeshjaat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Tyagi&" alt="asheeshjaat" /></p>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

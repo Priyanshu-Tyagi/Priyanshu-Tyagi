@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-Tyagi" alt="Priyashu-Tyagi" /></a> </p>
 
-- 👨‍💻 <a href="https://priyanshu-tyagi.github.io/priyanshutyagi.github.io/">My Portfolio.</a>
+- 👨‍💻 <a href="https://priyanshu-tyagi.github.io/">My Portfolio.</a>
 
 - 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=manutyagi9991@gmail.com">manutyagi9991@gmail.com</a>.
 

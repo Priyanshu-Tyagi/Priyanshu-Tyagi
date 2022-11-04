@@ -10,7 +10,7 @@
 
 - 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=manutyagi9991@gmail.com">manutyagi9991@gmail.com</a>.
 
-- 📄 Know about my <a href="https://drive.google.com/file/d/1cktZclZGrHZk4OYQYfRSsxrRm6Y0cb-H/view?usp=sharing">Resume</a>.
+- 📄 Know about my <a href="https://drive.google.com/file/d/1cktZclZGrHZk4OYQYfRSsxrRm6Y0cb-H/view?usp=sharing">Experience</a>.
 
 <h3 align="left">Connect with me:</h3>
 

@@ -10,13 +10,13 @@
 
 - 📫 How to reach me <a href="https://mail.google.com/mail/?view=cm&fs=1&to=manutyagi9991@gmail.com">manutyagi9991@gmail.com</a>.
 
-- 📄 Know about my <a href="https://drive.google.com/file/d/1cktZclZGrHZk4OYQYfRSsxrRm6Y0cb-H/view?usp=sharing">experiences</a>.
+- 📄 Know about my <a href="https://drive.google.com/file/d/1cktZclZGrHZk4OYQYfRSsxrRm6Y0cb-H/view?usp=sharing">Resume</a>.
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/priyanshu-tyagi-b9686a1b4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="priyanshu" height="30" width="40" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manutyagi9991@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="priyansutyagi" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanshu-tyagi-b9686a1b4/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="priyanshu" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manutyagi9991@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="priyansutyagi" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

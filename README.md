@@ -41,10 +41,12 @@
    
 <h3 align="left">My Github Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-Tyagi&show_icons=true&locale=en&layout=compact" alt="asheeshjaat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priyanshu-Tyagi" alt="Priyanshutyagi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Tyagi&show_icons=true&locale=en" alt="asheeshjaat" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyanshu-Tyagi" alt="Priyanshutyagi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Tyagi&" alt="asheeshjaat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Tyagi" alt="Priyanshutyagi" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Tyagi" alt="Priyanshutyagi" /></p>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

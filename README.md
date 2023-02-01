@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyanshu-Tyagi&label=Profile%20views&color=0e75b6&style=flat" alt="Priyanshu-Tyagi" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-Tyagi" alt="Priyashu-Tyagi" /></a> </p>
+
 
 - 👨‍💻 <a href="https://priyanshu-tyagi.github.io/">My Portfolio.</a>
 

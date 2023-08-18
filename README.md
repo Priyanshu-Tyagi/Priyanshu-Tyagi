@@ -6,6 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyanshu-Tyagi&label=Profile%20views&color=0e75b6&style=flat" alt="Priyanshu-Tyagi" /> </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-Tyagi" alt="Priyanshu-Tyagi" /></a> </p>
 
 <img align="right" width="400px" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" alt="cover" />
 
@@ -55,3 +56,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-Tyagi" alt="Priyanshutyagi" /></p>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />

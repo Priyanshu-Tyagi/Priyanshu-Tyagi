@@ -1,6 +1,8 @@
- 
+
+ <p><img alt="intro" src="https://readme-typing-svg.herokuapp.com/?font=Courier&color=1e90ff&size=40&center=true&vCenter=true&width=1200&height=70&lines=Hey%2C+I%27m+Priyanshu;Student%2C+Life+Long+Learner%2C+Web+Developer;Always+happy+to+help!;Thank+you+so+much+for+visiting+this+tiny+space!"/></p>
+ <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 <img src="https://raw.githubusercontent.com/lostgirljourney/lostgirljourney/master/assets/gifs/Earth.gif" width="24px">/>!</h1>
 <h1 align="center">Hi 👋, I'm Priyanshu Tyagi</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Delhi, India.</h3>
+<h3 align="center">A passionate MERN Stack Web Developer from New Delhi, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priyanshu-Tyagi&label=Profile%20views&color=0e75b6&style=flat" alt="Priyanshu-Tyagi" /> </p>
 
